@@ -64,5 +64,146 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-glasswarp-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://glasswarp.com/
+Glasswarp provides a Computer Use API that enables developers to programmatically control a real Windows PC. It supports pairing a physical machine, then driving it via Python, MCP, or other tools, allowing AI models or automation workflows to interact with desktop applications that cannot be run in a sandbox. The service offers free, tiered paid plans, targeting RPA freelancers, n8n canvas users, small shops, and vertical AI solutions that need access to licensed Windows software. Users can install the glasswarp Python package, create sessions, observe UI elements, and perform actions like clicks, enabling end‑to‑end automation of Windows‑only workloads.
+
+**Areas:** Company · API · Automation · Windows · RPA
+
+## glasswarp-com on APIs.io
+
+Everything profiled for glasswarp-com is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/glasswarp-com/](https://apis.io/providers/glasswarp-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (10)
+
+- [glasswarp-com Agent API](https://apis.io/apis/glasswarp-com/glasswarp-com-agent-api/) — The Agent API from glasswarp-com — 1 operation(s) for agent.
+- [glasswarp-com API Keys API](https://apis.io/apis/glasswarp-com/glasswarp-com-api-keys-api/) — The API Keys API from glasswarp-com — 2 operation(s) for api keys.
+- [glasswarp-com Apps API](https://apis.io/apis/glasswarp-com/glasswarp-com-apps-api/) — The Apps API from glasswarp-com — 2 operation(s) for apps.
+- [glasswarp-com Grounding API](https://apis.io/apis/glasswarp-com/glasswarp-com-grounding-api/) — The Grounding API from glasswarp-com — 2 operation(s) for grounding.
+- [glasswarp-com Input API](https://apis.io/apis/glasswarp-com/glasswarp-com-input-api/) — The Input API from glasswarp-com — 1 operation(s) for input.
+- [glasswarp-com Rigs API](https://apis.io/apis/glasswarp-com/glasswarp-com-rigs-api/) — The Rigs API from glasswarp-com — 2 operation(s) for rigs.
+- [glasswarp-com Screenshots API](https://apis.io/apis/glasswarp-com/glasswarp-com-screenshots-api/) — The Screenshots API from glasswarp-com — 3 operation(s) for screenshots.
+- [glasswarp-com Sessions API](https://apis.io/apis/glasswarp-com/glasswarp-com-sessions-api/) — The Sessions API from glasswarp-com — 2 operation(s) for sessions.
+- [glasswarp-com Streaming API](https://apis.io/apis/glasswarp-com/glasswarp-com-streaming-api/) — The Streaming API from glasswarp-com — 1 operation(s) for streaming.
+- [glasswarp-com Webhooks API](https://apis.io/apis/glasswarp-com/glasswarp-com-webhooks-api/) — The Webhooks API from glasswarp-com — 2 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### AsyncAPI (1)
+
+Event-driven and webhook contracts.
+
+- [Glasswarp Com Webhooks](https://apis.io/asyncapis/glasswarp-com/glasswarp-com-webhooks/)
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Glasswarp Com Agentic Access](https://apis.io/agentic-access/glasswarp-com/glasswarp-com-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ApiKey](https://apis.io/schemas/glasswarp-com/glasswarp-com-api-key/)
+- [ApiWebhook](https://apis.io/schemas/glasswarp-com/glasswarp-com-api-webhook/)
+- [GroundingTarget](https://apis.io/schemas/glasswarp-com/glasswarp-com-grounding-target/)
+- [InputEvent](https://apis.io/schemas/glasswarp-com/glasswarp-com-input-event/)
+- [ObserveResult](https://apis.io/schemas/glasswarp-com/glasswarp-com-observe-result/)
+- [Session](https://apis.io/schemas/glasswarp-com/glasswarp-com-session/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Glasswarp Com Context](https://apis.io/jsonld/glasswarp-com/glasswarp-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [glasswarp-com API Rules](https://apis.io/rules/glasswarp-com/glasswarp-com-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Glasswarp Com Authentication](https://apis.io/security/glasswarp-com/glasswarp-com-authentication/)
+- [Glasswarp Com Domain Security](https://apis.io/security/glasswarp-com/glasswarp-com-domain-security/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [Glasswarp Com Plans Pricing](https://apis.io/plans/glasswarp-com/glasswarp-com-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://glasswarp.com/)
+- [Documentation](https://docs.glasswarp.com/)
+- [Getting started](https://docs.glasswarp.com/quickstart)
+- [API reference](https://docs.glasswarp.com/api-reference/overview)
+- [Pricing](https://www.glasswarp.com/pricing)
+- [Sign up](https://www.glasswarp.com/signup)
+- [Support](https://www.glasswarp.com/faq)
+- [Security](https://www.glasswarp.com/security)
+- [Terms of service](https://www.glasswarp.com/terms)
+- [Privacy policy](https://www.glasswarp.com/privacy)
+- [GitHub](https://github.com/glasswarp)
+
+## API Evangelist rating
+
+**Kin Score 64.2** — strong · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 68.7 |
+| Contract governance | 79.1 |
+| Operational transparency | 23.7 |
+| Developer ergonomics | 58.8 |
+| Access clarity | 73.2 |
+
+**Agent readiness 58.3** — agent-ready (gated down from agent-native)
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | partial |
+| Rate Limit Signal | — |
+| Event Surface Described | unknown |
+| Agent Skills | unknown |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/glasswarp-com/](https://apis.io/providers/glasswarp-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for glasswarp-com: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/glasswarp-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
